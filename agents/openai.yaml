@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI 原型与对照验收"
+  short_description: "逐步构想可交互 HTML 原型，保存确认版本，并对照实际界面验收"
+  default_prompt: "使用 $ui-prototype，根据已确认需求设计可交互 HTML 原型，记录样式、交互状态与验收依据。"
